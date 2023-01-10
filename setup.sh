@@ -240,7 +240,7 @@ wget https://raw.githubusercontent.com/FranataVPN/src/ipuk/xray/ins-xray.sh && c
 #wget https://raw.githubusercontent.com/FranataVPN/src/ipuk/bckp/set-br.sh && chmod +x set-br.sh && ./set-br.sh
 wget https://raw.githubusercontent.com/FranataVPN/src/ipuk/sshws/insshws.sh && chmod +x insshws.sh && ./insshws.sh
 echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
-echo -e "$green          ARLAN STORE              $NC"
+echo -e "$green          FRANATA STORE              $NC"
 echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
 sleep 2
 clear
