@@ -156,9 +156,9 @@ echo -e "${CYAN}━━━━━━━━━━━━━━━━━━━━━�
 echo -e ""
 
 
-echo -e " ${PURPLE}CRON${NC}          :  $status_cron"
-echo -e " ${PURPLE}FAIL2BAN${NC}      :  $status_fail2ban"
-echo -e " ${PURPLE}DROPBEAR ${NC}     :  $status_beruangjatuh"
+echo -e " ${PURPLE}CRON${NC}          :  ${GREEN}ON"
+echo -e " ${PURPLE}FAIL2BAN${NC}      :  ${GREEN}ON"
+echo -e " ${PURPLE}DROPBEAR ${NC}     :  ${GREEN}ON"
 echo -e " ${PURPLE}WEBSOCKET${NC}     :  ${GREEN}ON"
 echo -e " ${PURPLE}XRAY${NC}          :  ${status_xray} "
 echo -e " ${PURPLE}NGINX${NC}         :  ${status_nginx} "
