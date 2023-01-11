@@ -253,19 +253,36 @@ echo "Banner /etc/issue.net" >> /etc/ssh/sshd_config
 sed -i 's@DROPBEAR_BANNER=""@DROPBEAR_BANNER="/etc/issue.net"@g' /etc/default/dropbear
 cat> /etc/issue.net << END
 <p style="text-align:center"><b>                                                                                                                                                                      
-<br><font color='red'><b>क═══════क⊹⊱✫⊰⊹क══════क</b></font>                                                                                                                                              
-<br><font color=#30D5C8><b>FRANATA STORE</b></font>                                                                                                                                                    
-<br><font color='green'><b>क═══════क⊹⊱✫⊰⊹क══════क</b><br></font>                                                                                                                                    
-<br><font color='#DC143C'>&ensp;•NO DDOS!!!</font>                                                                                                                                                      
-<br><font color='#fc7303'>&ensp;•NO HACKING !!!</font>                                                                                                                                                  
-<br><font color='#a9fc03'>&ensp;•NO CARDING !!!</font>                                                                                                                                       
-<br><font color='#52fc03'>&ensp;•NO TORRENT !!!</font>                                                                                                                                                
-<br><font color='#9d03fc'>&ensp;•NO SPAMMING !!!</font>                                                                                                                                              
-<br><font color='#0367fc'>&ensp;•NO PLAYING PLAYSTATION !!!</font>                                                                                                                                     
-<br><font color='blue'><b>क═══════क⊹⊱✫⊰⊹क══════क</b></font>                                   
-<br><font color='green'><b>BUY HUB</b></font>  
-<br><font color='blue'><b>Wa.me/6282241967317</b></font>   
-<br><font color='blue'><b>https://t.me/f75_STORE</b></font>  
+
+<br><font color='green'><b>┏━━━━━━━━━━ ✫ ━━━━━━━━━━┓</b></font>                                                                                                                                              
+
+<br><font color=#8A95FF><b>⇱ FRANATA STORE ⇲</b></font>                                                                                                                                                    
+
+<br><font color='green'><b>┗━━━━━━━━━━━━━━━━━━━━━━┛</b><br></font>                                             
+
+<br><font color='#FF000E'>&ensp;⇱ AKUN VPN ⇲</font>                                                                                                                                                      
+
+<br><font color='#F4FF01'>&ensp;⇱ VPS SG ⇲</font>                                                                                                                                                  
+
+<br><font color='#3FFFAD'>&ensp;⇱ SCRIPT VPS ⇲</font>                                                                                                                                       
+
+<br><font color='#52fc03'>&ensp;⇱ SORCE VPS ⇲</font>                                                                                                                                                
+
+<br><font color='#0367fc'>&ensp;⇱ JASA SOSMED ⇲</font>                                                                                                                                              
+
+<br><font color='#9211FF'>&ensp;⇱ JASA PEMBUATAN WEBSITE ⇲</font>                                                                                                                                     
+
+<br><font color='green'><b>┏━━━━━━━━━━ ✫ ━━━━━━━━━━┓</b></font>                                                
+
+<br><font color=#8A95FF><b>⇱ BUY HUB ⇲</b></font>                                                                                                                                                    
+
+<br><font
+
+<br><font color='yellow'><b>wa.me/6282241967317</b></font>   
+
+<br><font color='yellow'><b>https://t.me/f75_STORE</b></font>
+
+<br><font color='green'><b>┗━━━━━━━━━━━━━━━━━━━━━━┛</b><br></font>  
 END
 
 #install bbr dan optimasi kernel
