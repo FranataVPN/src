@@ -264,7 +264,6 @@ cat> /etc/issue.net << END
 <br><font color='#9211FF'>&ensp;⇱ JASA PEMBUATAN WEBSITE ⇲</font>
 <br><font color='green'><b>┏━━━━━━━━━━ ✫ ━━━━━━━━━━┓</b></font>                                                
 <br><font color='#8A95FF'><b>⇱ BUY HUB ⇲</b></font>
-<br><font
 <br><font color='yellow'><b>wa.me/6282241967317</b></font>   
 <br><font color='yellow'><b>https://t.me/f75_STORE</b></font>
 <br><font color='green'><b>┗━━━━━━━━━━━━━━━━━━━━━━┛</b><br></font>  
