@@ -316,8 +316,6 @@ wget -O info-menu "https://raw.githubusercontent.com/FranataVPN/src/ipuk/menu_al
 wget -O ceklim "https://raw.githubusercontent.com/FranataVPN/src/ipuk/ssh/ceklim.sh"
 wget -O cekusage "https://raw.githubusercontent.com/FranataVPN/src/ipuk/xray/cekusage.sh"
 wget -O cekxray "https://raw.githubusercontent.com/FranataVPN/src/ipuk/cekxray.sh"
-wget -O backup "https://raw.githubusercontent.com/FranataVPN/src/ipuk/bckp/backup.sh"
-wget -O restore "https://raw.githubusercontent.com/FranataVPN/src/ipuk/bckp/restore.sh"
 chmod +x usernew
 chmod +x menu
 chmod +x hapus
