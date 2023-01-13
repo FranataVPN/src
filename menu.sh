@@ -187,9 +187,7 @@ echo -e " [${PURPLE}12${NC}]${NC} Change Banner $NC"
 echo -e " [${PURPLE}13${NC}]${NC} Cek Bandwith User Xray $NC"
 echo -e " [${PURPLE}14${NC}]${NC} Change Password VPS $NC"
 echo -e " [${PURPLE}15${NC}]${NC} CEK LOGIN XRAY $NC"
-echo -e " [${PURPLE}16${NC}]${NC} Backup Data $NC"
-echo -e " [${PURPLE}17${NC}]${NC} Restore Data $NC"
-echo -e " [${PURPLE}18${NC}]${NC} REBOOT VPS $NC"
+echo -e " [${PURPLE}16${NC}]${NC} REBOOT VPS $NC"
 echo -e " ${RED}"
 echo -e "${CYAN}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m${NC}"
 echo -e "\E[45;1;39m                      ⇱ FRANATA STORE ⇲                       \E[0m"
@@ -259,14 +257,6 @@ clear
 cekxrayb
 ;;
 16)
-clear 
-backup 
-;;
-17)
-clear
-restore
-;;
-18)
 reboot
 exit
 ;;
