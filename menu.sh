@@ -156,9 +156,9 @@ echo -e "${CYAN}━━━━━━━━━━━━━━━━━━━━━�
 echo -e ""
 
 
-echo -e " ${PURPLE}CRON${NC}          :  $status_cron"
-echo -e " ${PURPLE}FAIL2BAN${NC}      :  $status_fail2ban"
-echo -e " ${PURPLE}DROPBEAR ${NC}     :  $status_beruangjatuh"
+echo -e " ${PURPLE}CRON${NC}          :  ${GREEN}ON"
+echo -e " ${PURPLE}FAIL2BAN${NC}      :  ${GREEN}ON"
+echo -e " ${PURPLE}DROPBEAR ${NC}     :  ${GREEN}ON"
 echo -e " ${PURPLE}WEBSOCKET${NC}     :  ${GREEN}ON"
 echo -e " ${PURPLE}XRAY${NC}          :  ${status_xray} "
 echo -e " ${PURPLE}NGINX${NC}         :  ${status_nginx} "
@@ -187,8 +187,7 @@ echo -e " [${PURPLE}12${NC}]${NC} Change Banner $NC"
 echo -e " [${PURPLE}13${NC}]${NC} Cek Bandwith User Xray $NC"
 echo -e " [${PURPLE}14${NC}]${NC} Change Password VPS $NC"
 echo -e " [${PURPLE}15${NC}]${NC} CEK LOGIN XRAY $NC"
-echo -e " [${PURPLE}16${NC}]${NC} Backup - Restore $NC"
-echo -e " [${PURPLE}17${NC}]${NC} REBOOT VPS $NC"
+echo -e " [${PURPLE}16${NC}]${NC} REBOOT VPS $NC"
 echo -e " ${RED}"
 echo -e "${CYAN}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m${NC}"
 echo -e "\E[45;1;39m                      ⇱ FRANATA STORE ⇲                       \E[0m"
@@ -255,13 +254,9 @@ passwd
 ;;
 15)
 clear
-cekxray
+cekxrayb
 ;;
 16)
-clear
-bckp-menu
-;;
-17)
 reboot
 exit
 ;;
