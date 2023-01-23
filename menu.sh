@@ -147,7 +147,7 @@ echo -e "${PURPLE} ✘ ${NC}Server IP           = ${IP}"
 echo -e "${PURPLE} ✘ ${NC}Clients Name        = $Name"
 echo -e "${PURPLE} ✘ ${NC}Script Expert       = $Exp"
 echo -e "${PURPLE} ✘ ${NC}VPS Reboot          = Jam 12 Malam ${NC}"
-echo -e "${PURPLE} ✘ ${NC}Versi Script        = PREMIUM${NC}"
+echo -e "${PURPLE} ✘ ${NC}Versi Script        = Xray${NC}"
 echo -e "${PURPLE} ✘ ${NC}Developer           = FRANATA STORE${NC}"
 
 echo -e "${CYAN}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m${NC}"
